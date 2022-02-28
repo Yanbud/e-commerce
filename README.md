@@ -7,8 +7,11 @@ I used Node.js, Express, dotenv, Sequelize and mysql2 to develop the application
 Users can run the command to start it up: 
 
 `1. source schema.sql` 
+
 `2. npm run seed` 
+
 `3. npm start` 
+
 ## Screenshot
  <p dir="auto"><img src="Screenshot.png" alt="Screenshot" style="max-width: 100%;" /></p>
 
